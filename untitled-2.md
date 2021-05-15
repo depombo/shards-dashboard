@@ -8,10 +8,10 @@
 
 {% tabs %}
 {% tab title="AWS" %}
-| Tutorial | Template | Languages | Database | Frameworks |
+| Tutorial | Template Repository | Programming Language | HTTP Framework | Database |
 | :--- | :--- | :--- | :--- | :--- |
-|  |  | Typescript, Node.js | Postgres | Prisma, Express |
-|  |  | Typescript, Node.js | N/A | Express |
+|  |  | Typescript \(Node.js\) | Express | PostgreSQL \(Prisma\) |
+|  |  | Typescript \(Node.js\) | Express | - |
 {% endtab %}
 
 {% tab title="GCP" %}
