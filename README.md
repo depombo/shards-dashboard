@@ -1,8 +1,8 @@
 # Initial page
 
-{% page-ref page="untitled.md" %}
+{% page-ref page="asdf/test.md" %}
 
-[asdfsdaf](untitled.md) asdfsdf 
+[asdfsdaf](asdf/test.md) [asdfsdf](asdf/) 
 
 {% page-ref page="./" %}
 
