@@ -4,18 +4,20 @@
 
 
 
-## Getting Super Powers
+## Tutorial Series
+
+Deploy any HTTP framework to any cloud provider using AnyCloud
 
 {% tabs %}
 {% tab title="AWS" %}
-| Tutorial | Template Repository | Programming Language | HTTP Framework | Database |
-| :--- | :--- | :--- | :--- | :--- |
-|  |  | Typescript \(Node.js\) | Express | PostgreSQL \(Prisma\) |
-|  |  | Typescript \(Node.js\) | Express | - |
+| Tutorial | Template Repository | Cloud | Programming Language | HTTP Framework | Database |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|  |  | AWS | Typescript \(Node.js\) | Express | PostgreSQL \(Prisma\) |
+|  |  | AWS | Typescript \(Node.js\) | Express | - |
 {% endtab %}
 
 {% tab title="GCP" %}
-
+Coming soon!
 {% endtab %}
 {% endtabs %}
 
